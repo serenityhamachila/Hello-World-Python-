@@ -1,2 +1,5 @@
-# Python_project
-Python 
+ - Full Name: SERENITY HAMACHILA
+   - Student Number: 2024551495
+   - Program of Study:  BACHELOR OF SCIENCE IN ICT PURE
+   - Course Name: ICT 214 PROGRAMMING 2 (PYTHON)
+   - Short project description: THIS PROGRAM PRINTS OUT HELLO WORLD.
